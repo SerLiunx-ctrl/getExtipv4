@@ -2,7 +2,7 @@ namespace SerLiunx
 {
     class Main
     {
-        public static string GetExternalIp()  //获取WLAN IP
+        public static string GetExternalIp()
         {
             try
             {
