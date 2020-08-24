@@ -1,8 +1,7 @@
-//      using System.Text.RegularExpressions;
-//      using System.Threading.Tasks;
-
-//      请先引用
-
+namespace SerLiunx
+{
+    class Main
+    {
         public static string GetExternalIp()  //获取WLAN IP
         {
             try
@@ -28,3 +27,6 @@
             }
 
         }
+
+    }
+}
